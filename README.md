@@ -23,6 +23,8 @@ Interactive tool for roof defect recognition and report generation with GUI is *
 
 File with implementation model inference is **segmentation_model.py** (in also uses config.py, data_preprocess.py and model.py)
 
+![DefectSoft GUI](https://github.com/yuddim/DefectSoft/blob/master/resources/Screenshot_DefectSoft.png)
+
 ## Training
 
 **Repository contains segmentation and auxiliary Python-scripts with custom losses, metrics, light models, pre- and post-processing with Tensorflow 2 (keras-based):**
